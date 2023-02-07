@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOLGWUFaIZSmBHit9qYExfutB9uE79MipSQeKoMbhDDJ1ruR54G3598s9Vm5/3r5PlF7pNTMFEDZOSloy9q5LA==",
+  "success": true,
+  "projectFilePath": "D:\\seprian\\learning c#\\text-to-speech\\text-to-speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.25.0\\microsoft.cognitiveservices.speech.1.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
